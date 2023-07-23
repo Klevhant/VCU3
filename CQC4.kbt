@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProfileSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <setDesc>
+    <LangStr>
+      <lang>en</lang>
+      <str>2020 MY20 V1 Klever SPD Pinion Release</str>
+    </LangStr>
+    <LangStr>
+      <lang>cht</lang>
+      <str>2020 MY20 V2 Klever SPD Pinion 發佈</str>
+    </LangStr>
+    <LangStr>
+      <lang>de</lang>
+      <str>2020 MY20 V2 Klever SPD Pinion Freisetzung</str>
+    </LangStr>
+  </setDesc>
+  <profile>
+    <Profile>
+      <map_id>CQC4</map_id>
+      <model>X SPD Pinion</model>
+      <name>CQComfort</name>
+      <showing_Name>X SPD Pinion Comfort</showing_Name>
+      <typeDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>X SPD Pinion Comfort
+Power：★★★★
+Range：★★★★</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>X SPD Pinion 舒適型
+助力強度：★★★★
+行駛範圍：★★★★</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>X SPD Pinion Komfort
+Power：★★★★
+Range：★★★★</str>
+        </LangStr>
+      </typeDesc>
+      <range>
+        <int>58</int>
+        <int>62</int>
+        <int>110</int>
+        <int>122</int>
+        <int>212</int>
+        <int>328</int>
+        <int>332</int>
+        <int>434</int>
+        <int>498</int>
+        <int>510</int>
+      </range>
+      <binary>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADRDUUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABub2luaVAgRFBTIFgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABol3oAEmsBgAAAAAAQJwAA0AdwFyBOqGG4iMivegNwFyBOoA+gD6APGQBkAMgAlgBGAPQBtwI5A3oDdgLAXWYOHgGKAmQAjAABAD4DuAuCABESAAC4AsgDPABjGRAnECcQJxAnECcAAFQLSA1EFtwexCJ5KwAAAAABBQ8eHgMGBAICFwgFLQ8FBFADDyMPPCoeBhDlI4UZCgUFAwAGDBIZISkwVVVQS0Q8NjUABgwSGSEpMEBAOjUvKCMgAAYMEhkhKTAvLyolHxoWEwFkZGRkZGRkZB4eCg8PYz+qNQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAgdHJvZm1vQ1FD</binary>
+    </Profile>
+  </profile>
+  <criticalRange>
+    <CriticalRange>
+      <from>214</from>
+      <to>214</to>
+      <bit>2</bit>
+      <criticalDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>Some change caused by regulations issue</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>一些變更會造成法規問題</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>Einige Veränderungen verursacht durch Regelungen Problem</str>
+        </LangStr>
+      </criticalDesc>
+    </CriticalRange>
+    <CriticalRange>
+      <from>246</from>
+      <to>252</to>
+      <bit>0</bit>
+      <criticalDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>Some change caused by regulations issue</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>一些變更會造成法規問題</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>Einige Veränderungen verursacht durch Regelungen Problem</str>
+        </LangStr>
+      </criticalDesc>
+    </CriticalRange>
+    <CriticalRange>
+      <from>292</from>
+      <to>294</to>
+      <bit>0</bit>
+      <criticalDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>Some change caused by regulations issue</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>一些變更會造成法規問題</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>Einige Veränderungen verursacht durch Regelungen Problem</str>
+        </LangStr>
+      </criticalDesc>
+    </CriticalRange>
+    <CriticalRange>
+      <from>298</from>
+      <to>300</to>
+      <bit>0</bit>
+      <criticalDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>Some change caused by regulations issue</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>一些變更會造成法規問題</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>Einige Veränderungen verursacht durch Regelungen Problem</str>
+        </LangStr>
+      </criticalDesc>
+    </CriticalRange>
+    <CriticalRange>
+      <from>304</from>
+      <to>316</to>
+      <bit>0</bit>
+      <criticalDesc>
+        <LangStr>
+          <lang>en</lang>
+          <str>Some change caused by regulations issue</str>
+        </LangStr>
+        <LangStr>
+          <lang>cht</lang>
+          <str>一些變更會造成法規問題</str>
+        </LangStr>
+        <LangStr>
+          <lang>de</lang>
+          <str>Einige Veränderungen verursacht durch Regelungen Problem</str>
+        </LangStr>
+      </criticalDesc>
+    </CriticalRange>
+  </criticalRange>
+</ProfileSet>
