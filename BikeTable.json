@@ -6,7 +6,7 @@
         "BMP": "S25.jpg"
     },
     {
-        "Model" : "X2",
+        "Model" : "X1",
         "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_0623.xml",
         "Param" : "paramaters.tbl",
         "BMP": "S25.jpg"
