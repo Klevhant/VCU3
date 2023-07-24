@@ -2,13 +2,13 @@
     {
         "Model" : "XSPEED",
         "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
-        "Param" : "parameters.tbl",
+        "Param" : "VCU3_parameters_Table.xls",
         "BMP": "S25.jpg"
     },
     {
         "Model" : "X1",
         "Driver": "KMI_2023_0614_CRCprofile_Date_C8M8_I2T39A_6023.xml",
-        "Param" : "parameters.tbl",
+        "Param" : "VCU3_parameters_Table.xls",
         "BMP": "S25.jpg"
     }
 ]
